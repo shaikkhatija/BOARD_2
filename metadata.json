@@ -1,0 +1,8 @@
+{
+  "name": "Board. - Analytics & Management Dashboard",
+  "description": "A high-fidelity replica of the Board. 2-screen analytics dashboard featuring Google authentication, responsive KPI metrics, interactive activity charts, product share breakdown, and daily schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
